@@ -14,4 +14,4 @@ The story of the Glucose-Data Repository goes like this:
    - Time below range (TBR)
    - Time above range (TAR) 
 6) Additional analyses on glucose data
-7) Analysis of glucose data for people who do not have diabetes
+7) Glucose data for people who do not have diabetes
