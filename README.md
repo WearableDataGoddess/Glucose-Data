@@ -1,4 +1,5 @@
 # Glucose-Data
+Disclaimer: all opinions and analyses listed in this repository are my own. 
 
 The Glucose-Data Repository includes all things glucose. 
 The story of the Glucose-Data Repository goes like this:
