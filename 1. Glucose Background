@@ -1,6 +1,19 @@
 What is glucose?
-- Glucose is the building block of carbs, or carbonhydrates. 
-- It is most commonly known as sugar. 
-- 
-
+	- Glucose is starch, sugar, and fiber. It is also often known as carbs.
+		○ Starch is a long chain of glucose and is easily digestible.
+		○ Sugar is made of glucose and fructose; fructose is the ingredient that makes things sweet.
+		○ Fiber is a long chain of glucose, but unlike starch, it is chemically bonded differently from starch, and human can't digest it.
+	
 Why is it important?
+	- Glucose is the fuel that keep us alive! It is the most efficient fuel to our body to use.
+	- When there is too much glucose in the body, your body turns glucose into fat, which is then stored in various parts of the body. This is why gaining weight around the abdomen is the first indicator that you may have consumed too much glucose and not using it fast enough.
+	- You can still survive without glucose because your body can generate glucose from protein and fat. 
+
+Current glucose sensors on the market
+	- Glucose sensors are commonly known as continuous glucose monitoring devices, or CGM.
+	- The two most common CGMs are FreeStyle Libre and Dexcom.
+	- Both CGMs do the same thing: they track your glucose 24/7, but FreeStyle Libre is more affordable than Dexcom.
+	- CGM can provide up to 288 data points per day - that's a wealth of data points we can use to learn about the glucose in our body. 
+	
+This repository will show you how to hack your glucose data and make better lifestyle choices, using this wealth of glucose data points from your own CGM device.
+
