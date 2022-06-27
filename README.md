@@ -2,6 +2,7 @@
 Disclaimer: all opinions and analyses listed in this repository are my own. 
 
 The Glucose-Data Repository includes all things glucose. 
+The analyses included in this repository are applicable for people with or without diabetes.
 The story of the Glucose-Data Repository goes like this:
 
 1) Glucose background
@@ -15,4 +16,4 @@ The story of the Glucose-Data Repository goes like this:
    - Time below range (TBR)
    - Time above range (TAR) 
 5) Additional analyses on glucose data
-6) Glucose data for people who do not have diabetes
+
